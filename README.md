@@ -28,12 +28,14 @@ To run these scripts, ensure you have the following Python packages installed:
 - `matplotlib`
 - `tensorflow`
 - `torch`
+- `torchvision`
+- `torchaudio`
 - `imblearn`
 
 Install the dependencies using:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib tensorflow torch imbalanced-learn
+pip install numpy pandas scikit-learn matplotlib tensorflow torch torchvision torchaudio imbalanced-learn
 ```
 
 ## Key Learnings
